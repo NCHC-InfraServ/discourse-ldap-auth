@@ -1,3 +1,5 @@
+# for NCHC usage only
+
 # discourse-ldap-auth
 
 A [Discourse](https://github.com/discourse/discourse) plugin to enable LDAP/ActiveDirectory authentication.
