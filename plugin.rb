@@ -78,7 +78,7 @@ class LDAPAuthenticator < ::Auth::Authenticator
   end
 end
 
-auth_provider title: 'with LDAP',
+auth_provider title: '以國網中心 LDAP 登入',
   message: 'Log in with your LDAP credentials',
   frame_width: 920,
   frame_height: 800,
